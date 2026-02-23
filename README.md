@@ -1,6 +1,6 @@
-# Hey there, I'm Haytame 👋  
+# Hey there, I'm Haytame 👋  .
 
-**Digital Industrial Engineering Student · Systems Optimization · Tech Builder 🚀**
+**Digital Industrial Engineering Student · Systems Optimization · Tech Builder 🚀**.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="Profile Views"/>
