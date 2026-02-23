@@ -3,7 +3,7 @@
 **Digital Industrial Engineering Student · Systems Optimization · Tech Builder 🚀**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Haytame37&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -61,8 +61,8 @@ Libraries & Tools:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haytame37&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haytame37&layout=compact&theme=dark" />
 </div>
 
 ---
