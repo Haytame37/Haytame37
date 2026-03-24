@@ -1,6 +1,6 @@
 # Hey there, I'm Haytame 👋  
 
-**Digital Industrial Engineering Student · Systems Optimization · Tech Builder 🚀**
+**Digital Industrial Engineering Student · Data & Industrial Systems · Future AI Monitoring Engineer 🚀**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Haytame37&style=for-the-badge" alt="Profile Views"/>
@@ -16,18 +16,27 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I specialize in designing structured digital systems that solve real operational and industrial problems.
+I am a Digital Industrial Engineering student focused on understanding and improving industrial systems through data analysis and structured digital solutions.
 
-My work stands at the intersection of:
+My interests are evolving toward:
 
-- 📊 Data & Mathematical Modeling  
-- 🏭 Industrial Systems  
-- 💻 Software Development  
-- ☁️ Cloud & Digital Infrastructure  
+- 📊 Data Analysis & Mathematical Modeling  
+- 🏭 Industrial Systems & Performance Monitoring  
+- 💻 Backend Development & Data Processing  
+- ☁️ Cloud & Scalable Architectures  
 
-I focus on transforming complex processes into measurable, optimized and scalable solutions.
+I aim to develop intelligent monitoring systems capable of analyzing industrial data, detecting anomalies and improving operational performance.
 
 <br clear="right"/>
+
+---
+
+## 🧠 Current Focus
+
+- Industrial data analysis  
+- Understanding system performance behavior  
+- Learning fundamentals of machine learning  
+- Exploring anomaly detection techniques  
 
 ---
 
@@ -49,14 +58,59 @@ Libraries & Tools:
 
 ---
 
-## 🚀 Selected Projects
+## 🏭 Industrial Systems & Optimization
 
-- 📊 Reliability Analysis Project
-- 🏫 School Management Web Application
-- 🚗 Tire Tracking & Performance Optimization System
-- 📂 Python-Based NAS System
+- 📦 **Logistics Optimization Project (GMPP)**  
+  Modeling and optimization of storage center locations using operational research techniques.
+
+- 🏭 **Maintenance Management System (GPAO)**  
+  Design of a system for managing industrial maintenance operations and tracking performance.
+
+- 📊 **Maintenance Study – ENSA Beni Mellal**  
+  Analysis of maintenance processes and identification of improvement opportunities.
 
 ---
+
+## ☁️ IoT, Cloud & Digital Systems
+
+- 🌐 **IoT-Cloud Decision Support System (PFA Project)**  
+  Design of an intelligent system combining IoT and Cloud for logistics optimization and decision-making.
+
+- 🧠 **Digital Twin (TP)**  
+  Introduction to system modeling and simulation in industrial environments.
+
+- ☁️ **OpenStack Cloud Lab**  
+  Practical work on cloud infrastructure and virtualization.
+
+- 🌍 **Network Routing Project**  
+  Understanding of network communication and data flow.
+
+---
+
+## 📊 Data & Software Projects
+
+- 🏫 **Club Management Application (Python)**  
+  Development of a data management application.
+
+- 🗄️ **Database Engineering Project**  
+  Design and implementation of relational databases using SQL.
+
+- 📱 **Mobile Development with Python**  
+  Introduction to application development and data handling.
+
+- 📈 **Feasibility Study Project**  
+  Analytical approach to project evaluation and decision-making.
+
+---
+
+## 🧠 Future Direction
+
+I am currently orienting my work toward industrial data analysis and intelligent monitoring systems, with the objective of developing skills in anomaly detection and AI applied to industrial environments.
+
+📌 Currently preparing projects in industrial data analysis and anomaly detection to strengthen my skills in AI-based monitoring systems.
+
+---
+
 
 ## 📊 GitHub Stats
 
