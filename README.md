@@ -105,6 +105,14 @@ Libraries & Tools:
 
 ---
 
+## 📁 Featured Projects
+
+You can find my main projects here:
+
+- 🔗 [GMPP – Logistics Optimization](https://github.com/Haytame37/GMPP)
+- 🔗 [IoT-Cloud Decision System](https://github.com/Haytame37/optistock_solutions)
+
+
 ## 🧠 Future Direction
 
 I am currently orienting my work toward industrial data analysis and intelligent monitoring systems, with the objective of developing skills in anomaly detection and AI applied to industrial environments.
